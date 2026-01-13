@@ -2,7 +2,7 @@
 def sumar(a, b):
     # 3 Comentario de relleno
     # 4 Otro comentario de relleno
-    resultado = a + b      # 5 ← Operación inicial (NO suma)
+    resultado = a * b      # 5 ← Operación inicial (NO suma)
     return resultado       # 6
 
 num1 = 5
